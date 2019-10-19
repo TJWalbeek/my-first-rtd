@@ -1,3 +1,11 @@
+Made using:
+* https://diy-documentation.readthedocs.io/en/latest/
+
+During and event hosted by:
+* https://biodata-club.github.io/
+
+
+
 # Title of my project
 
 *  Write a short abstract for your project.  What does it do or solve, or what questions is it attempting to address?  What information is included in your documentation and how should others navigate this information?*
